@@ -2,6 +2,7 @@
   "name": "alus-unblocker",
   "type": "module",
   "version": "0.0.1",
+  "packageManager": "pnpm@latest",
   "scripts": {
     "build:all": "npm run format && npm run lint && npm run build",
     "start": "node .",
